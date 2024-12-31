@@ -12,3 +12,12 @@ docs/
 
 # Dotenv file
 .env
+
+# Personal Remark
+ERCRemark.md
+
+# Standard JSON Input
+json.json
+
+# Broadcast Results
+broadcast/
